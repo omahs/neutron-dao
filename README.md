@@ -26,7 +26,7 @@ The Neutron governance is based on [DAO DAO](https://github.com/DA0-DA0/dao-cont
 - **Multiple subDAOs** Subdao is basically an entity to delegate a control of minor network properties. They're pretty similar to main DAO, but every SubDAO proposal is timelocked for a certain period, during which the main DAO can cancel the proposal via an overrule proposal. 
 - **The Treasury** holds the vested NTRNs and sends them to the Reserve and Distribution contracts.
 - **The Reserve** contract keeps funds vested from treasury for one-off payments
-- **The Distribution** contract is responsible of the second step of token distribution where tokens sent to this contract are distributed between `share holders`, where `share holders` are a configurable set of addresses with number of shares. This contract allows shareholders to withdraw collected tokens.
+- **The Distribution** contract is responsible for the second step of token distribution where tokens sent to this contract are distributed between `share holders`, where `share holders` are a configurable set of addresses with number of shares. This contract allows shareholders to withdraw collected tokens.
 
 ## Testing 
 
@@ -44,7 +44,7 @@ Distributed under the BSL 1.1 License. See [`LICENSE`](https://github.com/neutro
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what makes the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project.
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
